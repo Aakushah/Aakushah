@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aakash Prasad sah</h1>
-<h3 align="center">DAspiring Data Scientist & Analyst | AI/ML Enthusiast with a Passion for Solving Real-World Problems</h3>
+<h1 align="center">Hi 👋, I'm Aakash Prasad Sah</h1>
+<h3 align="center">Aspiring Data Scientist & Analyst | AI/ML Enthusiast with a Passion for Solving Real-World Problems</h3>
 
 - 🌍 I'm based in **Malangwa Nepal**
 
-- 🧠 Currently Exploring **DataScience domain**
+- 🧠 Currently Exploring **DataScience Domain**
 
 - 🖥️ See my portfolio at [portfolio](https://aakushah.github.io/Aakashprasadsah/)
 
